@@ -4,7 +4,7 @@ import TodoList from './abis/TodoList.json';
 import toast, { Toaster } from 'react-hot-toast';
 import "./App.css";
 
-const CONTRACT_ADDRESS = "0x3db15879489B2f99CCA82c12eC8723817F51c8a9";
+const CONTRACT_ADDRESS = "0x7b96aF9Bd211cBf6BA5b0dd53aa61Dc5806b6AcE";
 
 function App() {
   const [account, setAccount] = useState("");
